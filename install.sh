@@ -1,7 +1,7 @@
 #! /bin/sh
 
 cd ~/
-git clone https://github.com/L-Zephyr/Drafter.git
+git clone https://github.com/tenxun123/Drafter.git
 cd Drafter
 
 # check if static link is needed
